@@ -1,2 +1,3 @@
 # ecommerce store -Java
- ccrcrcr
+
+ e-commerce store project is built using the Java MVC Architecture and integrates HTML, CSS, Bootstrap, JavaScript, and MySQL to create a seller's portal. The application allows sellers to register, login, and manage their product listings, including adding, updating, and deleting products. Sellers can upload product images and input details such as name, price, category, and description. The backend logic is handled by Java Servlets, while data is stored securely in a MySQL database. The user interface is fully responsive, offering a smooth experience across devices, with a clean layout supported by Bootstrap for styling. This project showcases the integration of server-side Java with a robust, modern frontend, suitable for scalable e-commerce solutions.
